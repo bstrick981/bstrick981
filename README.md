@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bstrick981
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Brian Strickland
+- 👀 I’m interested in being a Software Engineer.
+- 🌱 I’m currently learning Python and Java.
+- 💞️ I’m looking to collaborate on project ideas.
+- 📫 How to reach me (stricklandb36@gmail.com).
 
 <!---
 bstrick981/bstrick981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
